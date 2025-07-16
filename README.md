@@ -18,7 +18,7 @@ This project implements a Retrieval-Augmented Generation (RAG) system for loan-r
 1. Clone the repository:
    ```bash
    git clone 
-   cd loan-ai
+   cd loanaiagent
    ```
  
 2. Install dependencies:
